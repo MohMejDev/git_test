@@ -1,2 +1,2 @@
 # git_test
-GitHub rep test !
+GitHub repo test !
